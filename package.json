@@ -39,7 +39,8 @@
 	"dependencies": {
 		"@types/clipboardy": "^1.1.0",
 		"clipboardy": "^1.2.3",
-		"google-translate-api": "^2.3.0"
+		"google-translate-api": "^2.3.0",
+		"safe-eval": "^0.4.0"
 	},
 	"repository": {
 		"type": "git",
