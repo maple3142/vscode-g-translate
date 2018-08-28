@@ -40,5 +40,9 @@
 		"@types/clipboardy": "^1.1.0",
 		"clipboardy": "^1.2.3",
 		"google-translate-api": "^2.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/maple3142/vscode-g-translate.git"
 	}
 }
